@@ -1,0 +1,65 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Dodaj Pracownika" Height="341" Width="560" Background="LightSteelBlue">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal">
+            <GroupBox Header="Dane Pracwonika" HorizontalAlignment="Center" Margin="0,0,30,0">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,10">
+                        <Label Content="Imie" Width="70"/>
+                        <TextBox x:Name="txtBoxImie" TextWrapping="Wrap" Text="" Width="120" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,10">
+                        <Label Content="Nazwisko" Width="70"/>
+                        <TextBox x:Name="txtBoxNazwiko" TextWrapping="Wrap" Text="" Width="120" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,10">
+                        <Label Content="Stanowisko" Width="70"/>
+                        <ComboBox x:Name="ComBox" Width="120" IsSynchronizedWithCurrentItem="True" SelectedIndex="0" VerticalContentAlignment="Center">
+                            <ComboBoxItem Content="Kierownik"/>
+                            <ComboBoxItem Content="Starszy programista"/>
+                            <ComboBoxItem Content="Mlodszy programista"/>
+                            <ComboBoxItem Content="Tester"/>
+                        </ComboBox>
+
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Height="160" Header="Generuj haslo" Margin="30,0,0,0">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,10">
+                        <Label Content="Ile znakow?"/>
+                        <TextBox x:Name="IloscZnakowlbl" TextWrapping="Wrap" Text="" Width="120" VerticalContentAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel HorizontalAlignment="Center" Width="154" RenderTransformOrigin="0.503,0.485">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,10">
+                            <CheckBox x:Name="WielkieChecBox" Content="Male i Wielkie litery" Checked="WielkieChecBox_Checked"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,10">
+                            <CheckBox x:Name="CyfryChecBox" Content="Cyfry" HorizontalAlignment="Left"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,10">
+                            <CheckBox x:Name="ZnakiChecBox" Content="Znaki Specjalne" HorizontalAlignment="Left"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Margin="0,0,0,10">
+                        <Button Content="Generuj haslo" Click="Button_Click_1" Background="SteelBlue" Foreground="White" Width="100"/>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+        <Button Content="Zatwierdz" Click="Button_Click" Width="200" Background="SteelBlue" Foreground="White" Margin="0,20,0,0"/>
+
+
+
+
+
+
+
+    </StackPanel>
+</Window>
