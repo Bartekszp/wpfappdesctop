@@ -1,0 +1,30 @@
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\bin\Debug\ZGeometera.exe.config
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\bin\Debug\ZGeometera.exe
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\bin\Debug\ZGeometera.pdb
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera.csproj.AssemblyReference.cache
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\MainWindow.g.cs
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\App.g.cs
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera_MarkupCompile.cache
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera_MarkupCompile.lref
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\MainWindow.baml
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera.g.resources
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera.Properties.Resources.resources
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera.csproj.GenerateResource.cache
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera.csproj.CoreCompileInputs.cache
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera.exe
+C:\Users\Programista_2\Desktop\Marcel Kaliński 2p\ZGeometera\ZGeometera\obj\Debug\ZGeometera.pdb
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera.csproj.AssemblyReference.cache
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\MainWindow.g.cs
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\App.g.cs
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera_MarkupCompile.cache
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera_MarkupCompile.lref
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera.exe
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera.pdb
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\bin\Debug\ZGeometera.exe.config
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\bin\Debug\ZGeometera.exe
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\bin\Debug\ZGeometera.pdb
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\MainWindow.baml
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera.g.resources
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera.Properties.Resources.resources
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera.csproj.GenerateResource.cache
+C:\Users\Uczen\Desktop\ZGeometera\ZGeometera\obj\Debug\ZGeometera.csproj.CoreCompileInputs.cache
